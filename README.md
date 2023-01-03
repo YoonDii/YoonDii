@@ -13,7 +13,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YoonDii) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yy_oonj/)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blog.svg' alt='blog' height='40'>](https://yoondii.tistory.com/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 </div>
