@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api/top-langs/?type=waving&color=auto&height=250&section=header&text=Welcome!%20&fontSize=85&fontAlignY=40&desc=Enjoy%20My%20GitHub:D&descSize=20&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!%20&fontSize=85&fontAlignY=40&desc=Enjoy%20My%20GitHub:D&descSize=20&descAlign=50)
 <div align="center">
 
  **🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ/DRF**
