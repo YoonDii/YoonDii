@@ -7,7 +7,7 @@
 
  **🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ/DRF**
 
- **📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: greatbackend@gmail.com**
+ **📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: yoondii279@gmail.com**
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YoonDii&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
